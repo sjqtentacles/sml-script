@@ -1,5 +1,7 @@
 # sml-script
 
+[![CI](https://github.com/sjqtentacles/sml-script/actions/workflows/ci.yml/badge.svg)](https://github.com/sjqtentacles/sml-script/actions/workflows/ci.yml)
+
 Bitcoin Script stack machine interpreter (subset) in pure Standard ML
 
 ## Installation
